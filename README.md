@@ -1,8 +1,9 @@
 # Data-Science-Internship-Yuvaintern
 
-📊 Data Science Internship – End-to-End Project
+#📊 Data Science Internship – End-to-End Project
 Virtual Data Science with Python | YuvaIntern
-📌 Project Overview
+
+#📌 Project Overview
 
 This repository contains all tasks completed during my Virtual Data Science with Python Internship at YuvaIntern.
 
