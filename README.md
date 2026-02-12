@@ -1,4 +1,4 @@
-# Data-Science-Internship-Yuvaintern
+# Data-Science-Internship-Yuva-Intern
 
 # 📊 Data Science Internship – End-to-End Project
 Virtual Data Science with Python | YuvaIntern
